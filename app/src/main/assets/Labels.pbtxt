@@ -1,0 +1,140 @@
+item {
+  name: "aleff"
+  id: 1
+  display_name: "aleff"
+}
+item {
+  name: "bb"
+  id: 2
+  display_name: "bb"
+}
+item {
+  name: "taa"
+  id: 3
+  display_name: "taa"
+}
+item {
+  name: "thaa"
+  id: 4
+  display_name: "thaa"
+}
+item {
+  name: "jeem"
+  id: 5
+  display_name: "jeem"
+}
+item {
+  name: "haa"
+  id: 6
+  display_name: "haa"
+}
+item {
+  name: "khaa"
+  id: 7
+  display_name: "haa"
+}
+item {
+  name: "dal"
+  id: 8
+  display_name: "dal"
+}
+item {
+  name: "thal"
+  id: 9
+  display_name: "thal"
+}
+item {
+  name: "ra"
+  id: 10
+  display_name: "ra"
+}
+item {
+  name: "zay"
+  id: 11
+  display_name: "zay"
+}
+item {
+  name: "seen"
+  id: 12
+  display_name: "seen"
+}
+item {
+  name: "sheen"
+  id: 13
+  display_name: "sheen"
+}
+item {
+  name: "saad"
+  id: 14
+  display_name: "saad"
+}
+item {
+  name: "dhad"
+  id: 15
+  display_name: "dhad"
+}
+item {
+  name: "ta"
+  id: 16
+  display_name: "ta"
+}
+item {
+  name: "dha"
+  id: 17
+  display_name: "dha"
+}
+item {
+  name: "ain"
+  id: 18
+  display_name: "ain"
+}
+item {
+  name: "ghain"
+  id: 19
+  display_name: "ghain"
+}
+item {
+  name: "fa"
+  id: 20
+  display_name: "fa"
+}
+item {
+  name: "gaaf"
+  id: 21
+  display_name: "gaaf"
+}
+item {
+  name: "kaaf"
+  id: 22
+  display_name: "kaaf"
+}
+item {
+  name: "laam"
+  id: 23
+  display_name: "laam"
+}
+item {
+  name: "meem"
+  id: 24
+  display_name: "meem"
+}
+item {
+  name: "nun"
+  id: 25
+  display_name: "nun"
+}
+item {
+  name: "ha"
+  id: 26
+  display_name: "ha"
+}
+item {
+  name: "waw"
+  id: 27
+  display_name: "waw"
+}
+item {
+  name: "ya"
+  id: 28
+  display_name: "ya"
+}
