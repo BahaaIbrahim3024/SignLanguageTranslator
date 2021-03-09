@@ -2,10 +2,14 @@
 
 ## Intro
     Our Graduation project from Faculty of computers and information 2019.
-   ### Team : 
-       Ahmed Mohsin,             Eslam Goher, 
-       Eslam Basiouny,           Bahaa Ibrahim, 
-       Aya Salim,   Sara Said,   Ola Eisa
+   ### Team
+       Ahmed Mohsin,    
+       Eslam Goher,
+       Eslam Basiouny,
+       Bahaa Ibrahim,
+       Aya Salim,
+       Sara Said,
+       Ola Eisa
    
   ## Idea
      It was about translating Signs of ASL to common language ex: Arabic to make people life easier,
